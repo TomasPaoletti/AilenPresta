@@ -15,7 +15,7 @@ export const ANSWER = {
       <p>Si desean contactarme por trabajo pueden hacerlo a traves de mi linkedin y mandano un mail a aspresta@gmail.com</p>
     ),
     passtime:(
-      <p>Cuando no estoy en el trabajo me gusta salir con mis amigos, ver a mi familia y que mi novio me rompa el orto</p>
+      <p>Cuando no estoy en el trabajo me gusta salir con mis amigos y ver a mi familia</p>
     ),
     despedida:(
       <p>Hasta luego, fue un placer</p>
