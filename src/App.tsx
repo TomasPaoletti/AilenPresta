@@ -2,9 +2,9 @@ import Chat from "./Chat/Chat"
 
 function App() {
   return (
-    <div>
+    <main>
       <Chat />
-    </div>
+    </main>
   )
 }
 
